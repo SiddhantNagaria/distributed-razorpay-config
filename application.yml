@@ -61,6 +61,6 @@ app:
   kafka:
     topics:
       payment: payments.events
-      order: orders.events
-      refund: refund.events
-      settlement: settlement.events
+      order: order.events
+      refund: refunds.events
+      settlement: settlements.events
