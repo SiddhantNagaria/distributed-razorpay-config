@@ -1,0 +1,6 @@
+#centralize the configuration of all micro services in the application so configuration would 
+#      be fetched from single source only
+#      we dont have to manage conifguration everywhere for all the microservices
+
+# if you ever want to update configuration of any micro services, its just a matter of hitting one actuator end point
+#      and no redeployment needed until you change the code instead of configurations.
