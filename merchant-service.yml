@@ -7,3 +7,7 @@ spring:
 
 jwt:
   secret-key: dont-use-in-prod-12324j3k3hk345h3k45jhkjth34kbt4kj3tbk5tk45j4
+
+webhook:
+  secret:
+    encryption-key: 8K3vQ2mN7xL5pR9sT4wY6uI1oP0aS3dF7gH2jK5lM8Q=
