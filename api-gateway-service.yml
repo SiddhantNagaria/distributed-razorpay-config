@@ -40,4 +40,4 @@ spring:
                 - Path=/webhook/**
 
 jwt:
-  secret-key: asfd9asfdaoijfalkjl23u4oi5jlkjf98790890890ugojvakglsdfjn8yuh
+  secret-key: dont-use-in-prod-12324j3k3hk345h3k45jhkjth34kbt4kj3tbk5tk45j4
